@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\f10037e842687f46423ed8b3f5c3f483ec7c1c19\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\f10037e842687f46423ed8b3f5c3f483ec7c1c19\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\d8605fb8baa04835524a6cf6c40406c6a2ce4ce5\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\4debc9ed77202756349071488f3048ef8cbedd10\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\d8605fb8baa04835524a6cf6c40406c6a2ce4ce5\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\126aaf79cc0ddecf0414680683ad5acd8b11a74f\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\5697868193c0d03902c9ac3aa1a725d5f7a578f2\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\4debc9ed77202756349071488f3048ef8cbedd10\\output\\res\\color\\design_tint_password_toggle.xml"
+    }
+]

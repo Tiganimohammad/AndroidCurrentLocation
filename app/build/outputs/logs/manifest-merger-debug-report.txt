@@ -1,0 +1,453 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:4:5-65
+		INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:3:5-63
+	android:versionCode
+		INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\4c19486819eea06ca7e71e1b39646fa224c87b1e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Saidur\.android\build-cache\13fb4c66636b12476fa194c92f0a34c99bc701d5\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\dfb29397e4dad5bc4ddc3d35733b455026474690\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\f56a047c9c3943662d714259d5600f78cf1b1eb9\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Saidur\.android\build-cache\ef989d24a1e77e4169f3867e1b78d7079cdcf6bd\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\4c19486819eea06ca7e71e1b39646fa224c87b1e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Saidur\.android\build-cache\6b95566b98b80b74a24939387be289b5637c025b\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Saidur\.android\build-cache\05956cb6ab5fddcf3d68b2da694651777245a023\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Saidur\.android\build-cache\ad507b5b442329fa8698a5157353e04ec9b752b0\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\dfb29397e4dad5bc4ddc3d35733b455026474690\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\f56a047c9c3943662d714259d5600f78cf1b1eb9\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Saidur\.android\build-cache\ef989d24a1e77e4169f3867e1b78d7079cdcf6bd\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:8:5-98
+	android:name
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:8:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:16:22-76
+application
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:18:5-48:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\Saidur\.android\build-cache\4debc9ed77202756349071488f3048ef8cbedd10\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Saidur\.android\build-cache\7e0a48221d72dbf9de2635fb30a28a7a034eb4e1\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\Saidur\.android\build-cache\3dfd589c861dbd13ff2f2a8d4de19d3156d3daf7\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\4c19486819eea06ca7e71e1b39646fa224c87b1e\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Saidur\.android\build-cache\ff36698bdd9ff3166694ac09b7bb58585a3673ed\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\Saidur\.android\build-cache\314978f8d761b9170ba1c362c8a8302dc4700057\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Saidur\.android\build-cache\eed21e0fc3e7f5ed98a808842f82bb4d3769cd75\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Saidur\.android\build-cache\1bbba738b47d32f1bfbeef91dcd6d15af9265075\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Saidur\.android\build-cache\5697868193c0d03902c9ac3aa1a725d5f7a578f2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Saidur\.android\build-cache\def75a0456b2a8016a7970bed528b7dc0fa73efc\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Saidur\.android\build-cache\b1cd7d2671ccd4988fc0df2460960c22d03127c5\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\Saidur\.android\build-cache\411618475850bfd778cc18e0e57b83cb175bac49\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\Saidur\.android\build-cache\efa313b4fc1e09877fe345db9dbfc1c8457917bc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\Saidur\.android\build-cache\aa832bd412d5b659f7c1157e70687679085ebf0b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Saidur\.android\build-cache\6b95566b98b80b74a24939387be289b5637c025b\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Saidur\.android\build-cache\a43a524a169f808744a942afb3bdc50ed0a6f2cd\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Saidur\.android\build-cache\12a94e49780dc2bc7aa153d8cb3b2c04e531be57\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\Saidur\.android\build-cache\f895567fbd37c872e223951d89a00f5712ec71e6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\Saidur\.android\build-cache\6c00d0025e8031dedcb0d1f52ccb94ed5977af5e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\Saidur\.android\build-cache\f8fe6e9f3c0f7f9795f78c3956cf7faf8589419c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\Saidur\.android\build-cache\a9cc0a7a18bb146492da2413fe6fdbe8984d7b6c\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Saidur\.android\build-cache\05956cb6ab5fddcf3d68b2da694651777245a023\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\Saidur\.android\build-cache\e3e9c2ecb0ed46818ad7e2fc284bd240986bda97\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Saidur\.android\build-cache\ad507b5b442329fa8698a5157353e04ec9b752b0\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Saidur\.android\build-cache\b7d6b33c93e0508cc284b839757bf4a29371f064\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Saidur\.android\build-cache\13fb4c66636b12476fa194c92f0a34c99bc701d5\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\Saidur\.android\build-cache\44df761d4b9783a4244c2695ecc686e3781d246e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\Saidur\.android\build-cache\e614e4fd33bed43f656ff055e9f8c08a95c86e3f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\Saidur\.android\build-cache\2b7932db7d6171b0c4f78cae6b90d24a055496f7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\Saidur\.android\build-cache\c1d572699a0284a58bf16dd86ea38bf5624c35a9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\dfb29397e4dad5bc4ddc3d35733b455026474690\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Saidur\.android\build-cache\cf3c5df8cd102768e4bd18d078b184e00e3956af\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\Saidur\.android\build-cache\9237d1e7b5cc66e8461e5c06ddd2029115d76a92\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\f56a047c9c3943662d714259d5600f78cf1b1eb9\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\Saidur\.android\build-cache\d0f457fc304c9cf9df9124e2d43feaa6bf794c46\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\Saidur\.android\build-cache\46b694c7108626246a9a85a0b0992897c834b0cb\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Saidur\.android\build-cache\ef989d24a1e77e4169f3867e1b78d7079cdcf6bd\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\Saidur\.android\build-cache\0f57c8d8bfa3307e9a6a8125b02988a806e58792\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Saidur\.android\build-cache\f10037e842687f46423ed8b3f5c3f483ec7c1c19\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Saidur\.android\build-cache\0b0dd4494bcc52fc8d1726c4d971bce8e68850e7\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Saidur\.android\build-cache\d5192deebfee9dfc2eba64a81724ce759e02771d\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Saidur\.android\build-cache\ec418108dc961c6321f5f1292edb777c058f7ee1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Saidur\.android\build-cache\3ec3587356a393080d55beb60f7e57dce2af9e06\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Saidur\.android\build-cache\1dd34fe656879bc75020439854c63f16475b5411\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Saidur\.android\build-cache\f459171decfc4ea79621e4df7ee77cad544f6dec\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Saidur\.android\build-cache\e022cc390bc2effb17dbde5d92262507141ba16c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Saidur\.android\build-cache\0a5a682dc613eff4d7a0a0e428f567da45beba94\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:22:9-41
+	android:supportsRtl
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:24:9-35
+	android:roundIcon
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:23:9-54
+	android:allowBackup
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:25:9-40
+	android:name
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:19:9-68
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:35:9-37:55
+	android:value
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:37:13-52
+	android:name
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:36:13-58
+activity#app.test.currentlocation.saidur.me.currentlocation.MapsActivity
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:39:9-47:20
+	android:label
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:40:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml:45:27-74
+uses-sdk
+INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Saidur\.android\build-cache\60aebfc83d407ddce871f21a92bffba32eaaa093\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.0.1] C:\Users\Saidur\.android\build-cache\4debc9ed77202756349071488f3048ef8cbedd10\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Saidur\.android\build-cache\710f2da0f52e60e26ccc752af2e6cb938c535a35\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Saidur\.android\build-cache\7e0a48221d72dbf9de2635fb30a28a7a034eb4e1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\Saidur\.android\build-cache\3dfd589c861dbd13ff2f2a8d4de19d3156d3daf7\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\Saidur\.android\build-cache\71c731fbc1bf700d4ce68bd72c43d842ebf5f0eb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\4c19486819eea06ca7e71e1b39646fa224c87b1e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\Saidur\.android\build-cache\5b0b774232c1c9c7602df350eb412a22e9c62d97\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Saidur\.android\build-cache\ff36698bdd9ff3166694ac09b7bb58585a3673ed\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\Saidur\.android\build-cache\314978f8d761b9170ba1c362c8a8302dc4700057\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Saidur\.android\build-cache\eed21e0fc3e7f5ed98a808842f82bb4d3769cd75\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Saidur\.android\build-cache\1bbba738b47d32f1bfbeef91dcd6d15af9265075\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Saidur\.android\build-cache\5697868193c0d03902c9ac3aa1a725d5f7a578f2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Saidur\.android\build-cache\def75a0456b2a8016a7970bed528b7dc0fa73efc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Saidur\.android\build-cache\b1cd7d2671ccd4988fc0df2460960c22d03127c5\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\Saidur\.android\build-cache\411618475850bfd778cc18e0e57b83cb175bac49\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\Saidur\.android\build-cache\efa313b4fc1e09877fe345db9dbfc1c8457917bc\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\Saidur\.android\build-cache\aa832bd412d5b659f7c1157e70687679085ebf0b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Saidur\.android\build-cache\6b95566b98b80b74a24939387be289b5637c025b\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Saidur\.android\build-cache\a43a524a169f808744a942afb3bdc50ed0a6f2cd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\Saidur\.android\build-cache\49fac808ae94b8c93a0669fc2b37e89e9384c27f\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\Saidur\.android\build-cache\47ef0bbb3e2502e0f2a89d7c14eba3588acc0763\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Saidur\.android\build-cache\12a94e49780dc2bc7aa153d8cb3b2c04e531be57\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\Saidur\.android\build-cache\3274f2d55d8e26657820141c30a6fc0364d97423\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\Saidur\.android\build-cache\c59d7efb29082e336535c45cc65fd1cc2f849857\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\Saidur\.android\build-cache\f895567fbd37c872e223951d89a00f5712ec71e6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\Saidur\.android\build-cache\6c00d0025e8031dedcb0d1f52ccb94ed5977af5e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\Saidur\.android\build-cache\f8fe6e9f3c0f7f9795f78c3956cf7faf8589419c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\Saidur\.android\build-cache\a9cc0a7a18bb146492da2413fe6fdbe8984d7b6c\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Saidur\.android\build-cache\05956cb6ab5fddcf3d68b2da694651777245a023\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\Saidur\.android\build-cache\e3e9c2ecb0ed46818ad7e2fc284bd240986bda97\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Saidur\.android\build-cache\ad507b5b442329fa8698a5157353e04ec9b752b0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] C:\Users\Saidur\.android\build-cache\7395337fe74ba7427b0ee9fa1f116101ffbc0774\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Saidur\.android\build-cache\b7d6b33c93e0508cc284b839757bf4a29371f064\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Saidur\.android\build-cache\13fb4c66636b12476fa194c92f0a34c99bc701d5\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\Saidur\.android\build-cache\44df761d4b9783a4244c2695ecc686e3781d246e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\Saidur\.android\build-cache\e614e4fd33bed43f656ff055e9f8c08a95c86e3f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\Saidur\.android\build-cache\2b7932db7d6171b0c4f78cae6b90d24a055496f7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\Saidur\.android\build-cache\c1d572699a0284a58bf16dd86ea38bf5624c35a9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] C:\Users\Saidur\.android\build-cache\35036f2a778390742bbc68c5008b2fb04e9fe0dc\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\dfb29397e4dad5bc4ddc3d35733b455026474690\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Saidur\.android\build-cache\cf3c5df8cd102768e4bd18d078b184e00e3956af\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\Saidur\.android\build-cache\9237d1e7b5cc66e8461e5c06ddd2029115d76a92\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\f56a047c9c3943662d714259d5600f78cf1b1eb9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\Saidur\.android\build-cache\d0f457fc304c9cf9df9124e2d43feaa6bf794c46\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\Saidur\.android\build-cache\d8605fb8baa04835524a6cf6c40406c6a2ce4ce5\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\Saidur\.android\build-cache\46b694c7108626246a9a85a0b0992897c834b0cb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Saidur\.android\build-cache\ef989d24a1e77e4169f3867e1b78d7079cdcf6bd\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\Saidur\.android\build-cache\0f57c8d8bfa3307e9a6a8125b02988a806e58792\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Saidur\.android\build-cache\f10037e842687f46423ed8b3f5c3f483ec7c1c19\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Saidur\.android\build-cache\0b0dd4494bcc52fc8d1726c4d971bce8e68850e7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Saidur\.android\build-cache\d5192deebfee9dfc2eba64a81724ce759e02771d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Saidur\.android\build-cache\ec418108dc961c6321f5f1292edb777c058f7ee1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Saidur\.android\build-cache\3ec3587356a393080d55beb60f7e57dce2af9e06\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Saidur\.android\build-cache\1dd34fe656879bc75020439854c63f16475b5411\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Saidur\.android\build-cache\f459171decfc4ea79621e4df7ee77cad544f6dec\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Saidur\.android\build-cache\e022cc390bc2effb17dbde5d92262507141ba16c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Saidur\.android\build-cache\0a5a682dc613eff4d7a0a0e428f567da45beba94\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\Saidur\.android\build-cache\4debc9ed77202756349071488f3048ef8cbedd10\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Saidur\.android\build-cache\28a0b3f6a64b627b4e144979313b8060744d1137\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\4c19486819eea06ca7e71e1b39646fa224c87b1e\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\dfb29397e4dad5bc4ddc3d35733b455026474690\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\f56a047c9c3943662d714259d5600f78cf1b1eb9\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\4c19486819eea06ca7e71e1b39646fa224c87b1e\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Saidur\.android\build-cache\c6383995bb630a341ac3bd5b978c0d33cb2619f7\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Saidur\.android\build-cache\b37401c245e4f68f6d6635d4d00f200d96b11d8a\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Saidur\.android\build-cache\ff36698bdd9ff3166694ac09b7bb58585a3673ed\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Saidur\.android\build-cache\ff36698bdd9ff3166694ac09b7bb58585a3673ed\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Saidur\.android\build-cache\ff36698bdd9ff3166694ac09b7bb58585a3673ed\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Saidur\.android\build-cache\ff36698bdd9ff3166694ac09b7bb58585a3673ed\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Saidur\.android\build-cache\ff36698bdd9ff3166694ac09b7bb58585a3673ed\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Saidur\.android\build-cache\ff36698bdd9ff3166694ac09b7bb58585a3673ed\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Saidur\.android\build-cache\12a94e49780dc2bc7aa153d8cb3b2c04e531be57\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Saidur\.android\build-cache\12a94e49780dc2bc7aa153d8cb3b2c04e531be57\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Saidur\.android\build-cache\12a94e49780dc2bc7aa153d8cb3b2c04e531be57\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Saidur\.android\build-cache\12a94e49780dc2bc7aa153d8cb3b2c04e531be57\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Saidur\.android\build-cache\12a94e49780dc2bc7aa153d8cb3b2c04e531be57\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Saidur\.android\build-cache\12a94e49780dc2bc7aa153d8cb3b2c04e531be57\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Saidur\.android\build-cache\12a94e49780dc2bc7aa153d8cb3b2c04e531be57\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Saidur\.android\build-cache\05956cb6ab5fddcf3d68b2da694651777245a023\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Saidur\.android\build-cache\ad507b5b442329fa8698a5157353e04ec9b752b0\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Saidur\.android\build-cache\05956cb6ab5fddcf3d68b2da694651777245a023\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Saidur\.android\build-cache\4bd7c818e3eaf39b6b9520f55aa137930b273ac7\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\dfb29397e4dad5bc4ddc3d35733b455026474690\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Saidur\.android\build-cache\dfb29397e4dad5bc4ddc3d35733b455026474690\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Saidur\.android\build-cache\a98b1b6cefd880372ca01105d3c57983acbbcf5d\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Saidur\.android\build-cache\8b5e92c92c80a590c40a079e8ca82b1ecc98bacb\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Saidur\.android\build-cache\cf3c5df8cd102768e4bd18d078b184e00e3956af\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Saidur\.android\build-cache\cf3c5df8cd102768e4bd18d078b184e00e3956af\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Saidur\.android\build-cache\cf3c5df8cd102768e4bd18d078b184e00e3956af\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Saidur\.android\build-cache\cf3c5df8cd102768e4bd18d078b184e00e3956af\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Saidur\.android\build-cache\cf3c5df8cd102768e4bd18d078b184e00e3956af\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Saidur\.android\build-cache\ef989d24a1e77e4169f3867e1b78d7079cdcf6bd\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Saidur\.android\build-cache\ef989d24a1e77e4169f3867e1b78d7079cdcf6bd\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Saidur\.android\build-cache\ef989d24a1e77e4169f3867e1b78d7079cdcf6bd\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Saidur\.android\build-cache\f10037e842687f46423ed8b3f5c3f483ec7c1c19\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Saidur\.android\build-cache\f10037e842687f46423ed8b3f5c3f483ec7c1c19\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Saidur\.android\build-cache\f10037e842687f46423ed8b3f5c3f483ec7c1c19\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Saidur\.android\build-cache\f10037e842687f46423ed8b3f5c3f483ec7c1c19\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Saidur\.android\build-cache\d5192deebfee9dfc2eba64a81724ce759e02771d\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Saidur\.android\build-cache\d5192deebfee9dfc2eba64a81724ce759e02771d\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Saidur\.android\build-cache\d5192deebfee9dfc2eba64a81724ce759e02771d\output\AndroidManifest.xml:20:20-65

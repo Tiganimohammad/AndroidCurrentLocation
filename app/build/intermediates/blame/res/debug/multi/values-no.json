@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\Projects\\Android_Projects\\Android_Code\\Sample_Code\\CurrentLocation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-no\\values-no.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 101,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\Users\\Saidur\\.android\\build-cache\\044ed484f6ce537796b02c082e58b77c53fc4c49\\output\\res\\values-no\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 101,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 92,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "C:\\Users\\Saidur\\.android\\build-cache\\044ed484f6ce537796b02c082e58b77c53fc4c49\\output\\res\\values-no\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 92,
+                        "endOffset": 465
+                    }
+                }
+            }
+        ]
+    }
+]

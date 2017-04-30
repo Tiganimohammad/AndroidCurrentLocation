@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\4debc9ed77202756349071488f3048ef8cbedd10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_72c817fe2ca89be45fb18809af690cdb4478a368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\b1cd7d2671ccd4988fc0df2460960c22d03127c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_c72ca62ec15be975984064d2b7674552daec98ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\e022cc390bc2effb17dbde5d92262507141ba16c\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7a8c27078c4b67534f38a30a95a0f037d3bc90d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\1dd34fe656879bc75020439854c63f16475b5411\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_86bbc87a61d0cf6c66dbc04f6e80a8a7d5fe4738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\def75a0456b2a8016a7970bed528b7dc0fa73efc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_1a872ac96e19cda81e27cab901ad5b071916cea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\e022cc390bc2effb17dbde5d92262507141ba16c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_d545bbc55a12d559881f56cd1f8683050eebfc34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\3ec3587356a393080d55beb60f7e57dce2af9e06\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7ca230b35df4235ce2964d0018edffaf2fe59063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\3ec3587356a393080d55beb60f7e57dce2af9e06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_1d5627f43b397d6a64fad438fa8524b41ab0172f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\7e0a48221d72dbf9de2635fb30a28a7a034eb4e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_8890c1a5253e4eb683bac99b4e4ca62e084899c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\ec418108dc961c6321f5f1292edb777c058f7ee1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_1043167b1d9222524a576582ca7dea9a1ad91d74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\eed21e0fc3e7f5ed98a808842f82bb4d3769cd75\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_7437629b8737c4bbee27e01e1b15de71aa9da161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\1bbba738b47d32f1bfbeef91dcd6d15af9265075\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_6e03de8c85927be5338340edf3e4f3600cd45f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\f459171decfc4ea79621e4df7ee77cad544f6dec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_4203da46874740bc36e0f96906a22937a50adc1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\0a5a682dc613eff4d7a0a0e428f567da45beba94\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_cee5f4f3bbbdb508bfc9d352483b4e774cdf1464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\5697868193c0d03902c9ac3aa1a725d5f7a578f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_c8cc39f313360b143cd01604de3919fe01a252b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\eed21e0fc3e7f5ed98a808842f82bb4d3769cd75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_448b53779f5c5eb4d76b0dbacb33597f12a54f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\710f2da0f52e60e26ccc752af2e6cb938c535a35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_14ae61b9380342eebb1371c3a0c6ffcf7d7b559a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\f459171decfc4ea79621e4df7ee77cad544f6dec\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b5db198e389db2b789dbc133e0275aebff0fbd9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\1dd34fe656879bc75020439854c63f16475b5411\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_76bd2806e3088a5c1757a04766c08c1c1d92397a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\0a5a682dc613eff4d7a0a0e428f567da45beba94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Projects\Android_Projects\Android_Code\Sample_Code\CurrentLocation\app\build\intermediates\pre-dexed\debug\classes_cec2ca7f49d69ea2ac390665fb3ca4582ead6195.jar" />
+    </item>
+
+</items>
